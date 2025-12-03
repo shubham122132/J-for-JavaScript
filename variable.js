@@ -10,3 +10,6 @@ console.log(city)
 const pi = 3.14
 // pi = 3.14159  // can not reassign the const variable in javascript
 console.log(pi)
+
+let a;
+print(a)  // undefined
